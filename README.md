@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm George Wandhe</h1>
-<h3 align="center">A passionate frontend developer from kenya</h3>
+<h3 align="center">A passionate fullstack developer from kenya</h3>
 <p align="left"> <a href="https://twitter.com/@tec_toi" target="blank"><img src="https://img.shields.io/twitter/follow/@tec_toi?logo=twitter&style=for-the-badge" alt="@tec_toi" /></a> </p>
 
 - 🔭 I’m currently working on **rent management system**
