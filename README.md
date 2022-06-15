@@ -9,7 +9,7 @@ Am a computer science student. Am also a software engineering student at ALX-Hol
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [georgewandhe@gmail.com](mailto:georgewandhe@gmail.com)
 * 🚀  I'm currently working on [Password Manager Webapp](http://github.com/toitek/Passwordmanager.git)
-* 🧠  I'm learning PostgreSQL
+* 🧠  I'm learning API
 * 🤝  I'm open to collaborating on Intresting Projects
 * ⚡  I love talking .
 
