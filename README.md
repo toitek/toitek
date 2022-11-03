@@ -4,7 +4,7 @@ Hi 👋 My name is OYOYO WANDHE
 Software Engineer
 -----------------
 
-Am a computer science student. Am also a software engineering student at ALX-Holberts curriculum. Am also taking UDACITY Nano degree specializing in Full-stack developer.
+Am a computer science student. Am also a software engineering student at ALX-Holberts curriculum. 
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [georgewandhe@gmail.com](mailto:georgewandhe@gmail.com)
