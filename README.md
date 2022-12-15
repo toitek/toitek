@@ -8,10 +8,10 @@ Am a computer science student. Am also a software engineering student at ALX-Hol
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [georgewandhe@gmail.com](mailto:georgewandhe@gmail.com)
-* 🚀  I'm currently working on [Password Manager Webapp](http://github.com/toitek/Passwordmanager.git)
+* 🚀  I'm currently working on ATD collection an Ecommerce webapp)
 * 🧠  I'm learning API
 * 🤝  I'm open to collaborating on Intresting Projects
-* ⚡  I love talking .
+* ⚡  Waiting for vacation time to arrive .
 
 <a href="https://www.twitter.com/tec_toi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/tec_toi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
