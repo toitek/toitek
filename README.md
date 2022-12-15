@@ -1,4 +1,4 @@
-Hi 👋 My name is OYOYO WANDHE
+Hi 👋 My name is GEORGE WANDHE
 ==============================
 
 Software Engineer
