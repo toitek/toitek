@@ -6,7 +6,7 @@ Software Engineer
 
 Software engineer with more than 3years experience writing code for a living.
 
-*   🌍  I'm based in Nairobi, Kenya
+
 *   🖥️  See my portfolio at [wandhe.me](http://wandhe.com)
 *   ✉️  You can contact me at [info@wandhe.me](mailto:info@wandhe.me)
 *   🧠  I'm playing with AI models
