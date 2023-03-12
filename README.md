@@ -4,7 +4,7 @@ Hi 👋 My name is George Wandhe
 Software Engineer
 -----------------
 
-Software engineer with more than 3years experience writing code for a living.
+Software engineer who's writing code for a living.
 
 
 *   🖥️  See my portfolio at [wandhe.me](http://wandhe.com)
