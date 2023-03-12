@@ -10,7 +10,6 @@ Software engineer who's writing code for a living.
 *   🖥️  See my portfolio at [wandhe.me](http://wandhe.com)
 *   ✉️  You can contact me at [info@wandhe.me](mailto:info@wandhe.me)
 *   🧠  I'm playing with AI models
-*   🤝  I'm open to collaborating on intresting projects
 *   ⚡  "I'm a code wizard who can turn coffee into code faster than you can say "JavaScript". Follow me on GitHub and let's create some magic together!"
 
 <a href="https://www.github.com/toitek" target="_blank" rel="noreferrer"><img
