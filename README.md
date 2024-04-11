@@ -7,8 +7,8 @@ Software Engineer
 Software engineer who's writing code for a living.
 
 
-*   🖥️  See my portfolio at [wandhe.me](http://wandhe.com)
-*   ✉️  You can contact me at [info@wandhe.me](mailto:georgewandhe@gmail.com)
+
+*   ✉️  You can contact me at [georgewandhe@gmail.com](mailto:georgewandhe@gmail.com)
 *   🧠  I'm playing with AI models
 *   ⚡  "I'm a code wizard who can turn coffee into code faster than you can say "JavaScript". Follow me on GitHub and let's create some magic together!"
 
